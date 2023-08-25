@@ -1,0 +1,12 @@
+name: hhh
+
+user1:
+  name: zhangsan
+  age: 17
+  school: xinmin
+
+a:
+  - 1
+  - 2
+  - 3
+  - 4
